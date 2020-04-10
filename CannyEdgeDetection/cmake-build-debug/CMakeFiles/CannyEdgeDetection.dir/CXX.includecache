@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankitgupta/Desktop/CannyEdgeDetection/l52.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+cmath
+-
+
